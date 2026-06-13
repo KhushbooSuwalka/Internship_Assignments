@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello
+=======
+Hello
+>>>>>>> 4900884a463e50471e67ad05f20ff13dd7be90f5
 Python
